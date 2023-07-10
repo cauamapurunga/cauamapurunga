@@ -1,6 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://gifdb.com/coding))]
 <h1 align="center">Hi 👋, I'm Cauã Mapurunga</h1>
 <h3 align="center">A programming student from brazil studying systems analysis and development</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/kitten-laptop-coding-hicxox3kgw3kew71.gif">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauamapurunga&label=Profile%20views&color=0e75b6&style=flat" alt="cauamapurunga" /> </p>
 
