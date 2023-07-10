@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cauã Mapurunga</h1>
 <h3 align="center">A programming student from brazil studying systems analysis and development</h3>
-<img align="right" alt="Coding" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBiOHh1NzIyYXFzc3hjcnNzbzd2ZzZqOTB0NGxmbW80czA3NmhlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBiOHh1NzIyYXFzc3hjcnNzbzd2ZzZqOTB0NGxmbW80czA3NmhlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauamapurunga&label=Profile%20views&color=0e75b6&style=flat" alt="cauamapurunga" /> </p>
 
