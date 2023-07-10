@@ -1,7 +1,6 @@
-[![MasterHead]([(https://gifdb.com/coding](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif))]
 <h1 align="center">Hi 👋, I'm Cauã Mapurunga</h1>
 <h3 align="center">A programming student from brazil studying systems analysis and development</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauamapurunga&label=Profile%20views&color=0e75b6&style=flat" alt="cauamapurunga" /> </p>
 
