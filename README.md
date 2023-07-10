@@ -1,4 +1,4 @@
-![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921)]
 <h1 align="center">Hi 👋, I'm Cauã Mapurunga</h1>
 <h3 align="center">A programming student from brazil studying systems analysis and development</h3>
 <img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBiOHh1NzIyYXFzc3hjcnNzbzd2ZzZqOTB0NGxmbW80czA3NmhlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
