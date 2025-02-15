@@ -1,6 +1,6 @@
 <div align="left">  
 
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cauamapurunga.cauamapurunga&"  />
 </div>
 
@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/caua-mapurunga/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="cauamapurungapf@gmail.com" target="_blank">
+  <a href="mailto:cauamapurungapf@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
