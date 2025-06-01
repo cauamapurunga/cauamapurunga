@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi, I'm Cauã Mapurunga, a Systems Analysis and Development student from Fortaleza, CE.<br><br>🔭 Currently working as a Web Designer<br>📚 Learning Java and Spring to enhance my backend skills</p>
+<p align="left">Hi, I'm Cauã Mapurunga, a Systems Analysis and Development student from Fortaleza, CE.<br><br>🔭 Currently working as a Data Intern<br>📚 Learning Java and Spring to enhance my backend skills</p>
 
 ###
 
